@@ -33,7 +33,7 @@ A complex "pick-and-place" cycle is simulated with the following components:
 ---
 
 ## 💻 Requirements
-* [cite_start]MATLAB / Simulink 
+* MATLAB / Simulink 
 * Control System Toolbox.
 
 ## 👥 Authors 
