@@ -4,8 +4,8 @@ This repository contains the full simulation and implementation of an automated 
 
 ## 📌 Project Overview
 The project is divided into due main technical challenges:
-1.  [cite_start]**Non-Linear Control**: Stability analysis and global stabilization of a 4th-order non-linear system using **Backstepping** techniques.
-2.  [cite_start]**Automated Factory**: A complete robotic workspace simulation involving autonomous vehicles (Unicycles), a 2-DOF robotic arm, and a conveyor belt system.
+1.  **Non-Linear Control**: Stability analysis and global stabilization of a 4th-order non-linear system using **Backstepping** techniques.
+2.  **Automated Factory**: A complete robotic workspace simulation involving autonomous vehicles (Unicycles), a 2-DOF robotic arm, and a conveyor belt system.
 
 ---
 
