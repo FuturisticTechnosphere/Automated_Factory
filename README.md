@@ -37,6 +37,6 @@ A complex "pick-and-place" cycle is simulated with the following components:
 * Control System Toolbox.
 
 ## 👥 Authors 
-* [cite_start]**Salvatore Zuccaro**, 
-* [cite_start]**Davide Baccarella**, 
-* [cite_start]**Roberto Saitta**,
+* **Salvatore Zuccaro**, 
+* **Davide Baccarella**, 
+* **Roberto Saitta**,
